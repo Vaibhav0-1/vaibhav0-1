@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UniLink](https://github.com/Vaibhav0-1/UniLink)
 
-- 🌱 I’m currently learning **Solang,DeFi, DePin,**
+- 🌱 I’m currently learning **Rust,DeFi, DePin,**
 
 - 👯 I’m looking to collaborate with **web3 communities**
 
