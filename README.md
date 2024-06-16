@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [AIGenMint](https://github.com/Vaibhav0-1/AIGenMint)
 
-- 🌱 I’m currently learning **Rust,DeFi, DePin,**
+- 🌱 I’m currently learning **Rust, DeFi, DePin**
 
 - 👯 I’m looking to collaborate with **web3 communities**
 
-- 🤝 I’m looking for help with **Defi Projects**
+- 🤝 I’m looking for help with **DeFi Projects**
 
-- 💬 Ask me about **FullStack Web3,Blockchain, Defi**
+- 💬 Ask me about **FullStack Web3, Blockchain, DeFi**
 
 - 📫 How to reach me **vaibhav.sharma3100@gmail.com**
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/vaibhav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav sharma" height="30" width="40" /></a>
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -72,6 +72,10 @@
     </a>
     <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJquoyLVBrdHiaqrDxvidabBSg8F5xcJyCOc99jzsLBw&s" alt="hardhat" width="40" height="40"/>
-    </a> </p>
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0-1&show_icons=true&locale=en&layout=compact" alt="vaibhav0-1" /></p>
