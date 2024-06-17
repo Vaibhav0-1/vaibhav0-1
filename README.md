@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamvaibhav_31" target="blank"><img src="https://img.shields.io/twitter/follow/iamvaibhav_31?logo=twitter&style=for-the-badge" alt="iamvaibhav_31" /></a> </p>
 
-- 🔭 I’m currently working on [PortfolioTracker]([https://github.com/Vaibhav0-1/PortfolioTracker])
+- 🔭 I’m currently working on [PortfolioTracker]([(https://github.com/Vaibhav0-1/PortfolioTracker)])
 
 - 🌱 I’m currently learning **Rust, DeFi, DePin**
 
