@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PortfolioTracker](https://github.com/Vaibhav0-1/PortfolioTracker)
 
-- 🌱 I’m currently learning **Rust, DeFi, DePin**
+- 🌱 I’m currently learning **Rust, DeFi, TypeScript, Nextjs**
 
 - 👯 I’m looking to collaborate with **web3 communities**
 
