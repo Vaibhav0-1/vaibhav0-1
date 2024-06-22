@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">Full Stack Web3 Developer exploring DeFi and DePIN</h3>
+<h3 align="center">Full Stack Web3 Developer exploring DeFi and DAO Tooling</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
