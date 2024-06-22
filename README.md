@@ -1,26 +1,33 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">Full Stack Web3 Developer exploring DeFi and DePIN</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav0-1" alt="vaibhav0-1" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav0-1" alt="vaibhav0-1" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/iamvaibhav_31" target="blank"><img src="https://img.shields.io/twitter/follow/iamvaibhav_31?logo=twitter&style=for-the-badge" alt="iamvaibhav_31" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/iamvaibhav_31" target="blank">
+    <img src="https://img.shields.io/twitter/follow/iamvaibhav_31?logo=twitter&style=for-the-badge" alt="iamvaibhav_31" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [PortfolioTracker](https://github.com/Vaibhav0-1/PortfolioTracker)
-
 - 🌱 I’m currently learning **Rust, DeFi, TypeScript, Nextjs**
-
 - 👯 I’m looking to collaborate with **web3 communities**
-
 - 🤝 I’m looking for help with **DeFi Projects**
-
 - 💬 Ask me about **FullStack Web3, Blockchain, DeFi**
-
 - 📫 How to reach me **vaibhav.sharma3100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamvaibhav_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvaibhav_31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav sharma" height="30" width="40" /></a>
+  <a href="https://twitter.com/iamvaibhav_31" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvaibhav_31" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/vaibhav sharma" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav sharma" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,6 +85,9 @@
     </a>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
 
