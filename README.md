@@ -103,6 +103,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
+      <!-- Next.js -->
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0-1&show_icons=true&locale=en&layout=compact" alt="vaibhav0-1" /></p>
