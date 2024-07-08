@@ -13,7 +13,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [PortfolioTracker](https://github.com/Vaibhav0-1/PortfolioTracker)
+- 🔭 I’m currently working on [PortfolioTracker](https://github.com/Vaibhav0-1/PortfolioTracker) & [DeBlog](https://github.com/Vaibhav0-1/DeBlog)
 - 🌱 I’m currently learning **Rust, DeFi, TypeScript, Nextjs**
 - 👯 I’m looking to collaborate with **web3 communities**
 - 🤝 I’m looking for help with **DeFi Projects**
