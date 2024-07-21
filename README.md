@@ -103,6 +103,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
+        <!-- Foundry -->
+    <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" alt="foundry" width="40" height="40"/>
+    </a>
       <!-- Next.js -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
