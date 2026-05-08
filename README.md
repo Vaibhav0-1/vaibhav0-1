@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">Full Stack Developer and exploring Solana development  </h3>
+<h3 align="center">Product Manager Intern</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
